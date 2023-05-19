@@ -10,8 +10,8 @@
   * [x] Renommer son dernier commit en respectant cette convention
 * [x] Créer un cheat sheet sur Git
 * [x] Créer un cheat sheet sur les principales commandes du terminal
-* [ ] Découvrir Gitflow
-  * [ ] Créer un cheat sheet sur Gitflow
+* [x] Découvrir Gitflow
+  * [x] Créer un cheat sheet sur Gitflow
 * [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos) 
   * [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
    
